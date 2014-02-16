@@ -1,0 +1,44 @@
+- JavaScript versions
+- Truthy, Falsy
+- Using objects as lookup tables / dictionaries
+- Undefined order in objects, use arrays instead
+- Semicolons
+
+- Understanding prototypes
+- Understanding the prototype chain
+
+- Closures
+- Recursion
+- Scope
+- Understanding the event loop
+- Callback functions
+
+- Parameters with default values
+- Handling optional arguments
+
+- Preventing changes to objects with Object.preventExtensions (properties fixed), check with Object.isExtensible, seal (values and properties fixed), freeze
+- JavaScript ES5 properties, writable, enumerable, configurable.  Use Object.getOwnPropertyDescriptor to see what supports what
+  Object.defineProperty( obj, prop, desc )
+   Object.defineProperty( obj, "name", {
+    get: function(){ return name; },
+    set: function(value){ name = value; }
+  });
+- Getting keys of an object with the Object.keys function
+- Creating objects with no prototype
+- strict mode, this not bound to global, no with, eval is run in restricted scope, + others
+- What is JSON - describe format
+- JSON support, JSON.parse, JSON.stringify
+- What is JSONP, JSON in script tag can't be interpreted by HTML
+- JS bind method
+- Arrays: every, some, forEach, map, filter, reduce, 
+
+- emscripten, asm.js
+
+- ES6 spec: http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts
+- ES6 Promises
+- ES6 modules
+- Internal Tasks
+- Realm Objects
+- Loader Objects
+
+- Creating a game loop
