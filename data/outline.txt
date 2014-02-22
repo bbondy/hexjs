@@ -1,3 +1,5 @@
+Exploring the world of computer science using JS
+
 - JavaScript versions
 - Truthy, Falsy
 - Using objects as lookup tables / dictionaries
@@ -44,3 +46,10 @@
 - Creating a game loop
 
 - Creating a simple server with Node
+
+
+Data Structures:
+- Stack, queue, binary tree, BST, graph
+
+Algorithms:
+- Searching, sorting
