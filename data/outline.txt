@@ -33,12 +33,24 @@ Exploring the world of computer science using JS
 - What is JSONP, JSON in script tag can't be interpreted by HTML
 - JS bind method
 - Arrays: every, some, forEach, map, filter, reduce, 
+- Modules (CommonJS, AMD)
+- Packaging (In general, Browserify,WebPack)
 
 - emscripten, asm.js
+
+
+Front end dev:
+- React
 
 - ES6 spec: http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts
 - ES6 Promises
 - ES6 modules
+- ES6 default params
+- ES6 Destructuring
+- ES6 classes
+- ES6 symbols
+- ES6 generators
+- ES6 short object notation
 - Internal Tasks
 - Realm Objects
 - Loader Objects
@@ -46,6 +58,8 @@ Exploring the world of computer science using JS
 - Creating a game loop
 
 - Creating a simple server with Node
+
+- Arrow functions! And how it implicitly binds to this.
 
 
 Data Structures:
