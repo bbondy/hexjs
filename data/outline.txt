@@ -14,6 +14,7 @@ Exploring the world of computer science using JS
 - Scope
 - Understanding the event loop
 - Callback functions
+- Unicode
 
 - Parameters with default values
 - Handling optional arguments
@@ -51,6 +52,8 @@ Front end dev:
 - ES6 symbols
 - ES6 generators
 - ES6 short object notation
+- ES6 block scope
+- ES7+ Property Initializers
 - Internal Tasks
 - Realm Objects
 - Loader Objects
