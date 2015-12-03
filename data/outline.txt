@@ -51,6 +51,7 @@ Front end dev:
 - ES6 classes
 - ES6 symbols
 - ES6 generators
+- ES6 iterators
 - ES6 short object notation
 - ES6 block scope
 - ES7+ Property Initializers
